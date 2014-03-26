@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /gardening_17/
+Sitemap: http://www.1-flower-garden.com/sitemap.xml 
